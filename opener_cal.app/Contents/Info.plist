@@ -30,8 +30,6 @@
 			<key>CFBundleURLSchemes</key>
 			<array>
 				<string>snews</string>
-				<string>news</string>
-				<string>mailto</mailto>
 			</array>
 		</dict>
 	</array>
